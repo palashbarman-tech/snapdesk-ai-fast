@@ -1,0 +1,15 @@
+Employee Remote Work and Device Policy
+
+Effective date: 1 April 2025. This policy applies to all full-time employees of Nova Systems Pvt Ltd.
+
+Remote work
+Employees may work remotely up to 3 days per week with manager approval. Requests must be submitted at least 5 working days in advance through the HR portal. Contact hr@novasystems.in or call +91 9876543210 for questions.
+
+Device allowance
+Each employee receives a one-time device allowance of Rs. 85,000 for a laptop. Laptops must be replaced after 4 years. Damaged devices must be reported within 48 hours. The IT helpdesk is available at https://helpdesk.novasystems.in.
+
+Data privacy
+Confidential documents must be stored only on company-approved local drives or encrypted storage. Employees must not upload customer data to public AI services. On-device AI tools approved by IT may be used with internal documents.
+
+Leave and deadlines
+Annual leave is 24 days per year. Expense claims must be filed by 30 June 2025 for the first quarter, with a reimbursement limit of $500 per month for internet costs.

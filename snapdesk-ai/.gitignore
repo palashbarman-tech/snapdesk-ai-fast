@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+data/*
+!data/.gitkeep
+models/**/*.onnx
+models/**/*.gguf
+models/**/tokenizer.json
+__pycache__/
+.venv/
